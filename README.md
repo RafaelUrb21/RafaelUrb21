@@ -20,5 +20,4 @@
 
 Desde sempre, a tecnologia me fascina, e estou sempre buscando aprender e aprimorar minhas habilidades em programação e algoritmos. Sou reconhecido por minha dedicação aos estudos e minha determinação em enfrentar desafios acadêmicos.
 
-Com apenas 17 anos, estou construindo uma carreira promissora na Ciência da Computação e no desenvolvimento web, e acredito que meu amor pelo que faço será a chave para meu sucesso futuro.
 
