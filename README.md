@@ -16,7 +16,7 @@
   <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript">
 </div><br><br>
 
- Meu nome é Rafael Moreira Urbano, sou apaixonado por Ciência da Computação e atualmente no segundo semestre do curso. Além disso, tenho 7 meses de experiência em estágio de desenvolvimento web, consturindo landing pages, dando manutenções em e-commerces, desenvolvendo emails-marketing e desenvolvendo sites com wordpress.
+ Meu nome é Rafael Moreira Urbano, sou apaixonado por Ciência da Computação e atualmente no segundo semestre do curso. Além disso, tenho 10 meses de experiência em estágio de desenvolvimento web, consturindo landing pages, dando manutenções em e-commerces, desenvolvendo emails-marketing e desenvolvendo sites com wordpress.
 
 Desde sempre, a tecnologia me fascina, e estou sempre buscando aprender e aprimorar minhas habilidades em programação e algoritmos. Sou reconhecido por minha dedicação aos estudos e minha determinação em enfrentar desafios acadêmicos.
 
