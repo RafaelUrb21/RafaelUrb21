@@ -14,14 +14,14 @@
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
   <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
   <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript">
-  <img align="center" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
+  <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   
   
 </div><br><br>
 
- Meu nome é Rafael Moreira Urbano, sou apaixonado por Ciência da Computação e atualmente no terceiro semestre do curso. Além disso, tenho 11 meses de experiência em estágio de desenvolvimento web, consturindo landing pages, dando manutenções em e-commerces, desenvolvendo emails-marketing e desenvolvendo sites com wordpress.
+ Meu nome é Rafael Moreira Urbano, sou apaixonado por Ciência da Computação e atualmente no quinto semestre do curso. Além disso, tenho 11 meses de experiência em estágio de desenvolvimento web, consturindo landing pages, dando manutenções em e-commerces, desenvolvendo emails-marketing e desenvolvendo sites com wordpress.
 
 Desde sempre, a tecnologia me fascina, e estou sempre buscando aprender e aprimorar minhas habilidades em programação e algoritmos. Sou reconhecido por minha dedicação aos estudos e minha determinação em enfrentar desafios acadêmicos.
 
